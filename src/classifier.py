@@ -130,7 +130,7 @@ def classify_ticket(text: str) -> Classification:
         )
 
     score, category, matches = best
-    confidence = min(0.98, 0.58 + (0.08 * min(score, 5)))
+    confidence = min(0.98, 0.72 + (0.08 * min(score, 3)))
     subcategory = matches[0][1]
     config = RULES[category]
 
