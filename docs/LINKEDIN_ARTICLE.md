@@ -8,6 +8,21 @@ AI is beginning to change that sequence.
 
 The opportunity is not simply to make ticket handling faster. It is to redesign the service workflow so that AI can assist with understanding, recommendation and execution while people retain appropriate control over consequential decisions.
 
+
+## Why This Matters Now
+
+Agentic AI is moving from experimentation toward operational use, but enterprise confidence is not keeping pace with the ambition.
+
+Riverbed's October 6, 2026 global survey reported that **90% of organizations want to use agentic AI for autonomous IT operations**, while **77% are hesitant to allow AI to make operational decisions without human approval**. It also found that **92% expect AI observability and governance to become a critical IT domain**.
+
+Source: https://www.riverbed.com/press-releases/global-survey-finds-agentic-ai-reshaping-it/
+
+Gartner's 2026 guidance makes a similar point from an Infrastructure & Operations perspective: governance for agentic AI needs to address operational risk, not simply policy documents. Runtime controls are required because agents can execute actions at machine speed.
+
+Source: https://www.gartner.com/en/articles/agentic-ai-infrastructure-governance
+
+That is why I believe AI-assisted ITSM should start with a **controlled operating model**, not uncontrolled autonomy.
+
 ## From Ticket Handling to Service Orchestration
 
 A traditional service-desk workflow often looks like this:
