@@ -123,6 +123,7 @@ it-service-desk-automation/
 │   ├── ARCHITECTURE.md
 │   ├── GOVERNANCE.md
 │   ├── KPI_DEFINITIONS.md
+│   ├── DATA_DICTIONARY.md
 │   └── LINKEDIN_ARTICLE.md
 ├── src/
 │   ├── classifier.py
@@ -131,9 +132,10 @@ it-service-desk-automation/
 │   └── workflow.py
 ├── scripts/
 │   └── generate_tickets.py
-└── examples/
-    └── run_demo.py
-```
+├── examples/
+│   └── run_demo.py
+└── tests/
+    └── test_workflow.py
 
 ## Getting Started
 
@@ -142,6 +144,7 @@ This proof of concept uses Python's standard library and does not require paid A
 ```bash
 python scripts/generate_tickets.py
 python examples/run_demo.py
+python -m unittest discover -s tests -p "test_*.py"
 ```
 
 The baseline implementation uses transparent rules so the decision path can be inspected and tested.
@@ -162,6 +165,10 @@ Recommended measures include:
 - User satisfaction
 
 A mature implementation should optimize for **service outcomes**, not the number of AI actions.
+
+## Validation
+
+The repository includes unit tests and a GitHub Actions workflow that runs the demo and test suite on pushes and pull requests.
 
 ## Future Enhancements
 
