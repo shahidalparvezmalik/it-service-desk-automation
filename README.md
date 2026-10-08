@@ -136,6 +136,13 @@ it-service-desk-automation/
 │   └── run_demo.py
 └── tests/
     └── test_workflow.py
+```
+
+## LinkedIn Article
+
+The companion thought-leadership article is maintained in the repository for publication and future updates:
+
+[AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](docs/LINKEDIN_ARTICLE.md)
 
 ## Getting Started
 
