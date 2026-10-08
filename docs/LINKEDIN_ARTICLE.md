@@ -225,6 +225,8 @@ That separation is important because an AI model should not automatically become
 
 Following my IT Operations Dashboard project, I am extending the portfolio toward an **IT Service Desk Automation** proof-of-concept.
 
+**Supporting GitHub project:** https://github.com/shahidalparvezmalik/it-service-desk-automation
+
 The project uses synthetic ITSM data to demonstrate:
 
 - Ticket classification
