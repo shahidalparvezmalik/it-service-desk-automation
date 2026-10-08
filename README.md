@@ -1,5 +1,9 @@
 # AI-Assisted IT Service Desk
 
+![AI-Assisted IT Service Desk](docs/images/ai-assisted-it-service-desk-cover.png)
+
+> **Project visual — AI-assisted ticket triage, governed automation and human oversight.**
+
 > Professional proof of concept | ITSM | AI Assistance | Governed Automation | Service Delivery
 
 A synthetic IT Service Desk proof of concept demonstrating how AI-assisted workflows can support ticket classification, priority and SLA recommendations, knowledge retrieval, human approval, and controlled automation.
