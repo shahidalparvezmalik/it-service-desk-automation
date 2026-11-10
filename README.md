@@ -127,8 +127,7 @@ it-service-desk-automation/
 │   ├── ARCHITECTURE.md
 │   ├── GOVERNANCE.md
 │   ├── KPI_DEFINITIONS.md
-│   ├── DATA_DICTIONARY.md
-│   └── LINKEDIN_ARTICLE.md
+│   └── DATA_DICTIONARY.md
 ├── src/
 │   ├── classifier.py
 │   ├── priority_engine.py
@@ -142,11 +141,9 @@ it-service-desk-automation/
     └── test_workflow.py
 ```
 
-## LinkedIn Article
+## Published LinkedIn article
 
-The companion thought-leadership article is maintained in the repository for publication and future updates:
-
-[AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](docs/LINKEDIN_ARTICLE.md)
+[AI-Assisted IT Service Desk: From Ticket Triage to Governed Automation](https://www.linkedin.com/pulse/ai-assisted-service-desk-from-ticket-triage-governed-automation-fopxc)
 
 ## Getting Started
 
